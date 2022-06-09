@@ -90,7 +90,7 @@ El primer mensaje que llega, es el primero que sale.
 
 ### Pasos para crear una almacenamiento Blob Storage
 
-1.- abrimos el ![Portal Azure](https://portal.azure.com/)
+1.- abrimos el [Portal Azure](https://portal.azure.com/)
 
 ![Portal Azure](Imagenes/portalAzure.PNG)
 
@@ -126,6 +126,7 @@ El primer mensaje que llega, es el primero que sale.
 ![Dentro del Contenedor](Imagenes/dentrodelcontenedor.PNG)
 
 11.- Ahora vamos a cargar un archivo y una imagen, el que tu desees.
+
 ![Cargando Archivo al almacen](Imagenes/CargandoArchivo.PNG)
 
 12.- Y podremos verlo ya en el almacen.
