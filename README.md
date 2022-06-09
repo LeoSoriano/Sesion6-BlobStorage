@@ -82,8 +82,11 @@ El primer mensaje que llega, es el primero que sale.
 **NOTAS:**
 
 **Almacenamiento con redundancia local (LRS)**---> Copia de seguridad en el mismo server.
+
 **Almacenamiento con redundancia geografica (GRS)**----> Copia de seguridad en otra region.
+
 **Almacenamiento con redundancia de zona (ZRS)**----> Copia de seguridad en zona de disponibilidad  **(Este seria mas rapido).**
+
 **Almacenamiento con redundancia de zona geografica (GZRS)**----> Copia de seguridad en otra region y zoda de disponibilidad **(este es mas rapido y los datos se van a otro lado ES MEJOR).**
 
 -------------------------------------------------------------------------------------
