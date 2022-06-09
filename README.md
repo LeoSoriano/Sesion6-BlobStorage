@@ -58,8 +58,8 @@ Controla mejor los archivos, funciona como disco duro de todas las maquinas virt
 
 Es muy rapido mas que los discos tradicionales
 
-Funcion: Discos para las maquinas virtuales
-opciones: Puede ser HHD,SSD, SSD Premium y Ultra Disks.
+- **Funcion:** Discos para las maquinas virtuales
+- **opciones:** Puede ser HHD,SSD, SSD Premium y Ultra Disks.
 
 -------------------------------------------------------------------------------------------
 
@@ -93,21 +93,21 @@ El primer mensaje que llega, es el primero que sale.
 
 ### Pasos para crear una almacenamiento Blob Storage
 
-1.- abrimos el [Portal Azure](https://portal.azure.com/)
+1.- Abrimos el [Portal Azure](https://portal.azure.com/)
 
 ![Portal Azure](Imagenes/portalAzure.PNG)
 
-2.- buscamos cuentas de almacenamiento, para crear una cuenta.
+2.- Buscamos cuentas de almacenamiento, para crear una cuenta.
 
 ![Cuenta de almacenamiento](Imagenes/cuentaAlmacenamiento.PNG)
 
-3.- creamos una cuenta de almacenamiento.
+3.- Creamos una cuenta de almacenamiento.
 
 ![Creando Cuenta de Almacenamiento](Imagenes/creandolacuenta.PNG)
 
-4.- dejemos que la cuenta se cree
+4.- Dejemos que la cuenta se cree
 
-5.- cuando finalice, hay que darle ir al recurso
+5.- Cuando finalice, hay que darle ir al recurso
 
 ![Instalando cuenta de Almacenamiento](Imagenes/instalandolacuentadealmacenamiento.PNG)
 
@@ -135,7 +135,7 @@ El primer mensaje que llega, es el primero que sale.
 
 12.- Y podremos verlo ya en el almacen.
 
-13.- ahora, si le damos click en la imagen, podremos ver un link.
+13.- Ahora, si le damos click en la imagen, podremos ver un link.
 
 14.- Cuando copiemos ese link y lo peguemos en una pestaña, veremos nuestra imagen.
 
@@ -143,13 +143,13 @@ El primer mensaje que llega, es el primero que sale.
 
 15.- Ahora subiremos una pagina.
 
-16.- si subimos una pagina con frames, con animaciones, se visualizara solo el codigo, por lo que debemmos hacer paginas estaticas
+16.- Si subimos una pagina con frames, con animaciones, se visualizara solo el codigo, por lo que debemmos hacer paginas estaticas
 
 17.- La forma de hacer una pagina estatica es ir a nuestro almacen y buscar sitio web estatico para darle que se active.
 
 ![Sitio web Statico](Imagenes/sitiowebstatico.PNG)
 
-18.- le escribimos un nombre y le damos guardar.
+18.- Le escribimos un nombre y le damos guardar.
 
 ![Sitio web Estatico](Imagenes/paginaestaticacreando.PNG)
 
