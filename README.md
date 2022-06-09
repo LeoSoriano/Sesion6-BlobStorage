@@ -105,6 +105,7 @@ El primer mensaje que llega, es el primero que sale.
 4.- dejemos que la cuenta se cree
 
 5.- cuando finalice, hay que darle ir al recurso
+
 ![Instalando cuenta de Almacenamiento](Imagenes/instalandolacuentadealmacenamiento.PNG)
 
 6.- Hay que buscar el Blob Storage, que esta en la seccion de contenedores.
@@ -142,6 +143,7 @@ El primer mensaje que llega, es el primero que sale.
 16.- si subimos una pagina con frames, con animaciones, se visualizara solo el codigo, por lo que debemmos hacer paginas estaticas
 
 17.- La forma de hacer una pagina estatica es ir a nuestro almacen y buscar sitio web estatico para darle que se active.
+
 ![Sitio web Statico](Imagenes/sitiowebstatico.PNG)
 
 18.- le escribimos un nombre y le damos guardar.
