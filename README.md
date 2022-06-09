@@ -36,22 +36,6 @@ Funciona como copia de seguridad de una base de datos.
 
 -----------------------------------------------------------------------------------------
 
-## Azure File Storage
-
-![Azure File Storage](Imagenes/azureFileStorage1.png)
-
-Almacena archivos mas pequeños, controla mejor su acceso, archivos mas privados o tambien para migrar de un ambiente local a Azure.
-
-Controla mejor los archivos, funciona como disco duro de todas las maquinas virtuales.
-
-- **Modelo de servicio:** IaaS.
-- **Funcion:** Para compartir archivos y controlar su acceso.
-- **Funcion:** Facilita la migracion de local a Azure.
-- **Funcion:** Acceso de archivos desde varias maquinas virtuales.
-- **cuando usar:** Compartir datos a traves del mundo.
-
-------------------------------------------------------------------------------
-
 ## Azure Disk Storage
 
 ![Azure Disk Storage](Imagenes/azureDiskStorage1.png)
